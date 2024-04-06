@@ -19,6 +19,10 @@ This repository contains my solutions to three assignments from my Foundations o
 - **Convolutional Neural Networks:** Training and assessment of a convolutional neural network on the CIFAR-100 dataset.
 - **Multi-layer Perceptrons:** Implementation of a feedforward neural network by hand for binary classification.
 
+## Assignment 4: K-means clustering
+- **K-means Algorithm:** Developed the K-means clustering algorithm from scratch and optimized the number of clusters using the silhouette score.
+- **Cluster Visualization:** Visualized the clustering performance on a synthetic Gaussian clustered dataset.
+
 ## Dependencies
 
 - Python
