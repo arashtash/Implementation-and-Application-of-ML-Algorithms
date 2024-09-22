@@ -35,6 +35,8 @@ This repository contains my solutions to three assignments from my Foundations o
 
 - Arash Tashakori
 
+[Website and Contact information](https://arashtash.github.io/)
+
 ## Acknowledgments
 
 - These assignments are part of the Machine Learning course at Dalhousie University and are designed by the instructor Dr. Sageev Oore.
